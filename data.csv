@@ -1,0 +1,16 @@
+StudentID,Graduated,Year,Name,Gender,Age,GPA,Attendance,Scholarship,Course,FeePaid,Department,City
+1,0,3,Budi Santoso,male,20,2.5,75,1,CS101,1500,,Jakarta
+2,1,1,Siti Aisyah,female,22,3.8,90,1,ENG201,2000,A45,Surabaya
+3,0,3,Ayu Lestari,female,19,2.8,60,0,MATH150,1500,,Bandung
+4,1,2,Agus Susanto,male,21,3.2,85,0,CS102,1700,,Medan
+5,0,3,Andi Wijaya,male,23,2.3,55,0,ENG101,1300,,Palembang
+6,1,1,Dewi Ratnasari,female,20,3.6,95,1,BIO110,2500,B78,Makassar
+7,1,3,Bambang Saputra,male,22,3.1,80,1,CS103,1600,,Yogyakarta
+8,0,2,Wawan Setiawan,male,24,2.7,70,0,HIST200,1200,,Semarang
+9,0,3,Eka Pratama,male,18,2.9,65,0,PHY101,1400,,Balikpapan
+10,1,2,Linda Kurniawati,female,21,3.4,88,0,CS104,1800,,Malang
+11,1,1,Maria Putri,female,25,3.7,93,1,CHM101,2200,C85,Bogor
+12,0,3,Haryanto,male,22,2.4,60,0,ENG102,1500,,Denpasar
+13,0,3,Rini Susanti,female,20,2.6,55,0,BIO111,1500,,Pontianak
+14,0,2,Rudi Hartono,male,23,2.8,65,0,CS105,1700,,Samarinda
+15,1,2,Anita Puspita,female,21,3.5,90,1,ENG202,2000,,Banjarmasin
