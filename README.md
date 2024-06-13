@@ -6,7 +6,7 @@ Nama Anggota Kelompok:
 
 Fiska Viola Nadila
 
-Nada Berliana Putri
+Nada BerlianI Putri
 
 Yosi Arjunita Putri
 
