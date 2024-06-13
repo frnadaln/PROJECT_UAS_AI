@@ -4,12 +4,12 @@ Student Graduation Prediction using Machine Learning in Python
 
 Nama Anggota Kelompok:
 
-Fiska Viola Nadila
+1. Fiska Viola Nadila
 
-Nada BerlianI Putri
+2. Nada BerlianI Putri
 
-Yosi Arjunita Putri
+3. Yosi Arjunita Putri
 
-M Raya Nugroho
+4. M Raya Nugroho
 
-M Nur Ilham
+5. M Nur Ilham
